@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>The International Cross-Institute Laboratory for Brain Research</title>
+    <link>http://example.com</link>
+    <description>Import package for Publii (pages only)</description>
+    <pubDate>Sun, 22 Feb 2026 12:00:00 +0000</pubDate>
+    <language>en</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+
+    <!-- ========================= -->
+    <!-- PAGE: HOME -->
+    <!-- ========================= -->
+    <item>
+      <title>Home</title>
+      <wp:post_type>page</wp:post_type>
+      <wp:status>publish</wp:status>
+      <wp:post_date>2026-02-22 12:00:00</wp:post_date>
+      <wp:post_name>home</wp:post_name>
+      <content:encoded><![CDATA[
+<h1>The International Cross-Institute Laboratory for Brain Research</h1>
+<p><em>Department of [Department], [University/Institute]</em></p>
+
+<p><strong>[INSERT LAB GROUP PHOTO HERE]</strong><br/>
+<em>In Publii, add an Image block here.</em></p>
+
+<hr/>
+
+<h2>Quick Links</h2>
+<ul>
+  <li><strong>Email:</strong> [lab@email]</li>
+  <li><strong>Google Scholar:</strong> [link]</li>
+  <li><strong>GitHub:</strong> [link]</li>
+  <li><strong>ORCID:</strong> [link]</li>
+</ul>
+
+<h2>About the Lab</h2>
+<p>[Write 4–6 lines explaining what the lab studies, why it matters, and your approach. Example: “We study how the brain supports … using … to understand …”.]</p>
+
+<h2>Research Themes</h2>
+<h3>1) [Theme title 1]</h3>
+<ul>
+  <li><strong>Question:</strong> [one sentence]</li>
+  <li><strong>Approach:</strong> [methods]</li>
+  <li><strong>Keywords:</strong> [k1, k2, k3]</li>
+</ul>
+
+<h3>2) [Theme title 2]</h3>
+<ul>
+  <li><strong>Question:</strong> [one sentence]</li>
+  <li><strong>Approach:</strong> [methods]</li>
+  <li><strong>Keywords:</strong> [k1, k2, k3]</li>
+</ul>
+
+<h3>3) [Theme title 3]</h3>
+<ul>
+  <li><strong>Question:</strong> [one sentence]</li>
+  <li><strong>Approach:</strong> [methods]</li>
+  <li><strong>Keywords:</strong> [k1, k2, k3]</li>
+</ul>
+
+<h2>Latest News</h2>
+<ul>
+  <li><strong>[Month Year]</strong> — [news item]</li>
+  <li><strong>[Month Year]</strong> — [news item]</li>
+  <li><strong>[Month Year]</strong> — [news item]</li>
+</ul>
+<p><em>Tip: you can later switch this to Posts tagged “news”.</em></p>
+
+<h2>Selected Publications</h2>
+<ol>
+  <li><strong>[Paper title]</strong> — [Authors] — <em>[Venue]</em> ([Year]) — [PDF] [Code] [DOI]</li>
+  <li><strong>[Paper title]</strong> — [Authors] — <em>[Venue]</em> ([Year]) — [PDF] [Code] [DOI]</li>
+  <li><strong>[Paper title]</strong> — [Authors] — <em>[Venue]</em> ([Year]) — [PDF] [Code] [DOI]</li>
+</ol>
+<p>See the full list on the <strong>Publications</strong> page.</p>
+
+<h2>Open Positions</h2>
+<ul>
+  <li><strong>[Role]</strong> — [1 line] — Apply: [email/link]</li>
+  <li><strong>[Role]</strong> — [1 line] — Apply: [email/link]</li>
+</ul>
+      ]]></content:encoded>
+    </item>
+
+    <!-- ========================= -->
+    <!-- PAGE: PEOPLE -->
+    <!-- ========================= -->
+    <item>
+      <title>People</title>
+      <wp:post_type>page</wp:post_type>
+      <wp:status>publish</wp:status>
+      <wp:post_date>2026-02-22 12:00:00</wp:post_date>
+      <wp:post_name>people</wp:post_name>
+      <content:encoded><![CDATA[
+<h1>People</h1>
+
+<h2>Principal Investigator</h2>
+<p><strong>[INSERT PI HEADSHOT HERE]</strong><br/>
+<em>In Publii, add an Image block here.</em></p>
+
+<p><strong>[PI Name]</strong> — [Title]<br/>
+[Department], [University/Institute]<br/>
+<strong>Email:</strong> [PI email] &nbsp;•&nbsp; <strong>Office:</strong> [Building, Room]<br/>
+<strong>Links:</strong> [Google Scholar] • [ORCID] • [GitHub] • [Website] • [LinkedIn]</p>
+
+<h3>Bio</h3>
+<p>[3–6 lines bio.]</p>
+
+<h3>CV</h3>
+<p><strong>[INSERT PI_CV.pdf HERE]</strong><br/>
+<em>In Publii, insert a File link here.</em></p>
+
+<hr/>
+
+<h2>Postdoctoral Researchers</h2>
+<ul>
+  <li><strong>[Name]</strong> — [keywords] — [link]</li>
+  <li><strong>[Name]</strong> — [keywords] — [link]</li>
+</ul>
+
+<h2>PhD Students</h2>
+<ul>
+  <li><strong>[Name]</strong> — [keywords] — [link]</li>
+  <li><strong>[Name]</strong> — [keywords] — [link]</li>
+</ul>
+
+<h2>MSc / Research Assistants</h2>
+<ul>
+  <li><strong>[Name]</strong> — [keywords] — [link]</li>
+  <li><strong>[Name]</strong> — [keywords] — [link]</li>
+</ul>
+
+<h2>Alumni</h2>
+<ul>
+  <li><strong>[Name]</strong> — now at [place]</li>
+  <li><strong>[Name]</strong> — now at [place]</li>
+</ul>
+      ]]></content:encoded>
+    </item>
+
+    <!-- ========================= -->
+    <!-- PAGE: RESEARCH -->
+    <!-- ========================= -->
+    <item>
+      <title>Research</title>
+      <wp:post_type>page</wp:post_type>
+      <wp:status>publish</wp:status>
+      <wp:post_date>2026-02-22 12:00:00</wp:post_date>
+      <wp:post_name>research</wp:post_name>
+      <content:encoded><![CDATA[
+<h1>Research</h1>
+
+<h2>Overview</h2>
+<p>[One paragraph mission statement.]</p>
+
+<hr/>
+
+<h2>Theme 1 — [Title]</h2>
+<p><strong>Core question:</strong> [1–2 lines]</p>
+<p><strong>Approach / Methods:</strong></p>
+<ul>
+  <li>[method]</li>
+  <li>[method]</li>
+  <li>[method]</li>
+</ul>
+<p><strong>Related publications:</strong> [Paper link], [Paper link]</p>
+<p><strong>[INSERT RESEARCH IMAGE HERE]</strong> <em>(optional)</em></p>
+
+<h2>Theme 2 — [Title]</h2>
+<p><strong>Core question:</strong> [1–2 lines]</p>
+<p><strong>Approach / Methods:</strong></p>
+<ul>
+  <li>[method]</li>
+  <li>[method]</li>
+</ul>
+<p><strong>Related publications:</strong> [Paper link], [Paper link]</p>
+<p><strong>[INSERT RESEARCH IMAGE HERE]</strong> <em>(optional)</em></p>
+
+<h2>Theme 3 — [Title]</h2>
+<p><strong>Core question:</strong> [1–2 lines]</p>
+<p><strong>Approach / Methods:</strong></p>
+<ul>
+  <li>[method]</li>
+  <li>[method]</li>
+</ul>
+<p><strong>Related publications:</strong> [Paper link], [Paper link]</p>
+<p><strong>[INSERT RESEARCH IMAGE HERE]</strong> <em>(optional)</em></p>
+
+<h2>Tools / Datasets (optional)</h2>
+<ul>
+  <li><strong>[Tool/Dataset]</strong> — [description] — [link]</li>
+  <li><strong>[Tool/Dataset]</strong> — [description] — [link]</li>
+</ul>
+      ]]></content:encoded>
+    </item>
+
+    <!-- ========================= -->
+    <!-- PAGE: PUBLICATIONS -->
+    <!-- ========================= -->
+    <item>
+      <title>Publications</title>
+      <wp:post_type>page</wp:post_type>
+      <wp:status>publish</wp:status>
+      <wp:post_date>2026-02-22 12:00:00</wp:post_date>
+      <wp:post_name>publications</wp:post_name>
+      <content:encoded><![CDATA[
+<h1>Publications</h1>
+
+<p><strong>Notes:</strong> * equal contribution &nbsp;•&nbsp; † corresponding author</p>
+<p>Links: [PDF] [DOI] [Code] [Slides] [Data]</p>
+
+<hr/>
+
+<h2>2026</h2>
+<h3>Journal Articles</h3>
+<ul>
+  <li><strong>[Title]</strong> — [Authors] — <em>[Journal]</em> — [DOI] [PDF] [Code]</li>
+</ul>
+
+<h3>Conference Papers</h3>
+<ul>
+  <li><strong>[Title]</strong> — [Authors] — <em>[Conference]</em> — [PDF] [Slides] [Code]</li>
+</ul>
+
+<h3>Preprints</h3>
+<ul>
+  <li><strong>[Title]</strong> — [Authors] — <em>arXiv/bioRxiv</em> — [PDF] [Code]</li>
+</ul>
+
+<h2>2025</h2>
+<h3>Journal Articles</h3>
+<ul>
+  <li><strong>[Title]</strong> — [Authors] — <em>[Journal]</em> — [DOI] [PDF] [Code]</li>
+</ul>
+
+<h3>Conference Papers</h3>
+<ul>
+  <li><strong>[Title]</strong> — [Authors] — <em>[Conference]</em> — [PDF] [Slides] [Code]</li>
+</ul>
+
+<h3>Preprints</h3>
+<ul>
+  <li><strong>[Title]</strong> — [Authors] — <em>arXiv/bioRxiv</em> — [PDF] [Code]</li>
+</ul>
+
+<h2>Earlier</h2>
+<ul>
+  <li><strong>[Title]</strong> — [Authors] — <em>[Venue]</em> ([Year]) — [DOI] [PDF]</li>
+</ul>
+      ]]></content:encoded>
+    </item>
+
+    <!-- ========================= -->
+    <!-- PAGE: TEACHING -->
+    <!-- ========================= -->
+    <item>
+      <title>Teaching</title>
+      <wp:post_type>page</wp:post_type>
+      <wp:status>publish</wp:status>
+      <wp:post_date>2026-02-22 12:00:00</wp:post_date>
+      <wp:post_name>teaching</wp:post_name>
+      <content:encoded><![CDATA[
+<h1>Teaching</h1>
+
+<h2>Courses</h2>
+<ul>
+  <li><strong>[Course code] [Course name]</strong> — [Term Year] — [Syllabus] [Materials]</li>
+  <li><strong>[Course code] [Course name]</strong> — [Term Year] — [Syllabus] [Materials]</li>
+</ul>
+
+<h2>Workshops / Tutorials (optional)</h2>
+<ul>
+  <li><strong>[Title]</strong> — [Event, Year] — [Slides] [Recording]</li>
+</ul>
+
+<h2>Supervision</h2>
+<h3>Current</h3>
+<ul>
+  <li><strong>[Name]</strong> — [degree] — [topic] — [years]</li>
+</ul>
+
+<h3>Completed</h3>
+<ul>
+  <li><strong>[Name]</strong> — [degree] — [topic] — [year]</li>
+</ul>
+      ]]></content:encoded>
+    </item>
+
+    <!-- ========================= -->
+    <!-- PAGE: JOIN THE LAB -->
+    <!-- ========================= -->
+    <item>
+      <title>Join the Lab</title>
+      <wp:post_type>page</wp:post_type>
+      <wp:status>publish</wp:status>
+      <wp:post_date>2026-02-22 12:00:00</wp:post_date>
+      <wp:post_name>join-the-lab</wp:post_name>
+      <content:encoded><![CDATA[
+<h1>Join the Lab</h1>
+
+<p>We welcome applications from <strong>[PhD / MSc / Postdocs / RAs]</strong> interested in:</p>
+<ul>
+  <li>[topic 1]</li>
+  <li>[topic 2]</li>
+  <li>[topic 3]</li>
+</ul>
+
+<hr/>
+
+<h2>Open Positions</h2>
+<p><strong>[Position title]</strong><br/>
+Start: [date/rolling]<br/>
+Summary: [2–3 lines]<br/>
+Apply: email <strong>[email]</strong> with subject <code>Prospective [role] — [Your Name]</code></p>
+
+<p><strong>[INSERT OPTIONAL OPEN POSITION PDF HERE]</strong><br/>
+<em>In Publii, insert a File link here.</em></p>
+
+<h2>How to Apply</h2>
+<ol>
+  <li>CV</li>
+  <li>Short statement of interests (½–1 page)</li>
+  <li>Writing/code sample (optional)</li>
+  <li>Referees (if relevant)</li>
+</ol>
+
+<h2>What we value</h2>
+<ul>
+  <li>[skill/quality]</li>
+  <li>[skill/quality]</li>
+  <li>[skill/quality]</li>
+</ul>
+
+<h2>For prospective students</h2>
+<p><strong>Recommended background:</strong> [courses/skills]<br/>
+<strong>Funding:</strong> [how it works]<br/>
+<strong>Start dates:</strong> [typical schedule]</p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- ========================= -->
+    <!-- PAGE: CONTACT -->
+    <!-- ========================= -->
+    <item>
+      <title>Contact</title>
+      <wp:post_type>page</wp:post_type>
+      <wp:status>publish</wp:status>
+      <wp:post_date>2026-02-22 12:00:00</wp:post_date>
+      <wp:post_name>contact</wp:post_name>
+      <content:encoded><![CDATA[
+<h1>Contact</h1>
+
+<h2>Email</h2>
+<ul>
+  <li><strong>Lab:</strong> [lab@email]</li>
+  <li><strong>PI:</strong> [pi@email]</li>
+</ul>
+
+<h2>Location</h2>
+<p><strong>[Department]</strong>, <strong>[University/Institute]</strong><br/>
+[Building, Room]<br/>
+[Full address]<br/>
+Map: [Google Maps link]</p>
+
+<h2>Online</h2>
+<ul>
+  <li>Website: [link]</li>
+  <li>Google Scholar: [link]</li>
+  <li>GitHub: [link]</li>
+  <li>ORCID: [link]</li>
+  <li>YouTube / Media: [link] (optional)</li>
+</ul>
+      ]]></content:encoded>
+    </item>
+
+  </channel>
+</rss>
